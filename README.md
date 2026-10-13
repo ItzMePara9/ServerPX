@@ -246,7 +246,11 @@ Please report security vulnerabilities privately rather than publishing exploit 
 
 ## 📜 License
 
-A license has not yet been specified. Add an appropriate `LICENSE` file before distributing or accepting contributions under particular licensing terms.
+ServerPX is licensed under the [MIT License](LICENSE).
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software, subject to the conditions of the MIT License.
+
+See the [LICENSE](LICENSE) file for the full license text.
 
 ---
 
